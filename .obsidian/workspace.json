@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "a4eee0bcffc6503c",
+            "id": "ee2a2752542a5e56",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -221,9 +221,10 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "a4eee0bcffc6503c",
+  "active": "ee2a2752542a5e56",
   "lastOpenFiles": [
     "cursos/market-microstructure/tipos-de-ordenes-y-libro-de-ordenes-limite.md",
+    "proyectos/sistema-trading-cuantitativo.md",
     "cursos/market-microstructure/curso-microestructura-coursera.md",
     "cursos/market-microstructure/mercados-de-orden-limite-vs-mercados-de-dealers.md",
     "daily-notes/2026-08-03.md.tmp.12976.56db3795b7af",
@@ -253,7 +254,6 @@
     "templates/curso.md",
     "templates/apunte-curso.md",
     "daily-notes/2026-07-31.md",
-    "proyectos/sistema-trading-cuantitativo.md",
     "resources/blog-quantinsti.md",
     "daily-notes/2026-07-30.md",
     "daily-notes/2026-07-27.md",
