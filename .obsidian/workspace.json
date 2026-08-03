@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -221,13 +221,13 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "5870484b651ffee7",
+  "active": "a4eee0bcffc6503c",
   "lastOpenFiles": [
+    "cursos/market-microstructure/tipos-de-ordenes-y-libro-de-ordenes-limite.md",
     "cursos/market-microstructure/curso-microestructura-coursera.md",
     "cursos/market-microstructure/mercados-de-orden-limite-vs-mercados-de-dealers.md",
     "daily-notes/2026-08-03.md.tmp.12976.56db3795b7af",
     "cursos/market-microstructure/curso-microestructura-coursera.md.tmp.12976.0a51552da666",
-    "cursos/market-microstructure/tipos-de-ordenes-y-libro-de-ordenes-limite.md",
     "daily-notes/2026-08-03.md",
     "daily-notes/2026-08-03.md.tmp.12976.0a19d20edcc9",
     "cursos/market-microstructure/curso-microestructura-coursera.md.tmp.12976.ec1a61e66f24",
