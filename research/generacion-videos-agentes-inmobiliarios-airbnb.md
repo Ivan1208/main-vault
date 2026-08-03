@@ -2,12 +2,12 @@
 fuente: 
 fecha: 2026-07-27
 relevancia: media
-estado: pausado
+estado: abandonado
 tags:
   - research
   - tema/inmobiliario
   - tema/video-ia
-  - estado/pausado
+  - estado/abandonado
 ---
 
 # Generación de videos para agentes inmobiliarios con Airbnb
@@ -21,9 +21,10 @@ Investigar herramientas y flujos para generar videos (probablemente con IA) que 
 ## 🛠 Aplicación práctica
 - 
 
-## ⏸️ Bloqueo actual
-Pausado: el renderizado de video requiere el ordenador potente de casa. Retomar en cuanto esté disponible.
+## ❌ Decisión: proyecto abandonado
+2026-08-03: Tras retomar la investigación, la idea de negocio no convence. Se abandona este proyecto para mantener el foco en [[sistema-trading-cuantitativo]] (finanzas cuantitativas).
 
 ## 🔗 Relacionado
 - [[2026-07-27]]
 - [[2026-07-29]]
+- [[2026-08-03]]

@@ -25,6 +25,7 @@ Proyecto personal, en paralelo a mis estudios de Ciencia de Datos Aplicada en la
 - 2026-07-27: MT5 elegido como plataforma de ejecución y Darwinex Zero como cuenta para llevar a real los sistemas validados.
 - 2026-07-28: Definidas las pruebas de validación que debe superar cada estrategia antes de pasar a real (lista abierta, ver sección "🧪 Pruebas de validación").
 - 2026-07-29: Se usará Claude Code para desarrollar el entorno de testeo de estrategias (las pruebas de validación) y el generador de informes que recoge sus resultados.
+- 2026-08-03: Se abandona el proyecto paralelo [[generacion-videos-agentes-inmobiliarios-airbnb]] (idea de negocio no convincente tras investigar) para mantener el foco en finanzas cuantitativas.
 
 ## ✅ Próximos pasos
 
@@ -63,6 +64,7 @@ Lista abierta — se irán añadiendo más pruebas a medida que surjan. Todas se
 **Entorno de testeo + informes:** se va a desarrollar con Claude Code un entorno que ejecute estas pruebas de validación sobre cada estrategia y genere un informe con los resultados.
 - [ ] Diseñar con Claude Code el entorno de testeo que ejecute todas las pruebas de validación de esta lista sobre una estrategia dada
 - [ ] Diseñar con Claude Code el generador de informes (recoge los resultados de cada prueba por estrategia)
+- [ ] Explorar [[claude-code-para-informes-de-backtesting]]: usar Claude Code para almacenar y organizar los gráficos/informes de cada backtest
 
 ### Fase 4 — Integración Python + MT5
 - [ ] Investigar la librería/API de conexión Python-MT5 (paquete `MetaTrader5`)
@@ -81,3 +83,4 @@ Lista abierta — se irán añadiendo más pruebas a medida que surjan. Todas se
 - [[redes-sociales-divulgacion-trading-cuantitativo]]
 - [[retrospective-simulation-trading]]
 - [[pairs-trading-cointegracion-nse-epat]]
+- [[claude-code-para-informes-de-backtesting]]

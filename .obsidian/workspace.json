@@ -13,16 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources/video-claude-code-proyectos.md",
+                "file": "daily-notes/2026-08-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "video-claude-code-proyectos"
+              "title": "2026-08-03"
             }
           },
           {
             "id": "1f492191fa06baf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ideas/claude-code-para-informes-de-backtesting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "claude-code-para-informes-de-backtesting"
+            }
+          },
+          {
+            "id": "5c006e4e26c06282",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -31,7 +45,8 @@
               "title": "Vista gráfica"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,14 +207,24 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "49525ddbcc76eb4b",
+  "active": "5c006e4e26c06282",
   "lastOpenFiles": [
+    "ideas/claude-code-para-informes-de-backtesting.md",
+    "daily-notes/2026-08-03.md",
+    "doble corchete.md",
+    "daily-notes/2026-08-03.md.tmp.12976.6cec55633dfd",
+    "resources/video-claude-code-proyectos.md.tmp.12976.219df23eb572",
+    "resources/video-claude-code-proyectos.md.tmp.12976.bac833c81ba9",
+    "proyectos/sistema-trading-cuantitativo.md.tmp.12976.7d933a191102",
+    "proyectos/sistema-trading-cuantitativo.md.tmp.12976.c1a7b667e146",
+    "ideas/claude-code-para-informes-de-backtesting.md.tmp.12976.a98419c002f8",
+    "proyectos/sistema-trading-cuantitativo.md.tmp.12976.aea2455cf066",
+    "daily-notes/2026-08-03.md.tmp.12976.6d5f6459ea7d",
+    "research/generacion-videos-agentes-inmobiliarios-airbnb.md.tmp.12976.79168db00c48",
     "resources/video-claude-code-proyectos.md",
     "research/retrospective-simulation-trading.md",
     "resources/video-robotrader.md",
-    "daily-notes/2026-08-03.md",
     "cursos/market-microstructure/precios-mercados-perfectos-vs-reales.md",
-    "doble corchete.md",
     "templates/research.md",
     "templates/recurso.md",
     "templates/proyecto.md",
@@ -209,8 +234,6 @@
     "templates/curso.md",
     "templates/apunte-curso.md",
     "daily-notes/2026-08-03.md.tmp.12976.9ae64920f6ce",
-    "daily-notes/2026-08-03.md.tmp.12976.ed4cfefba8b9",
-    "daily-notes/2026-08-03.md.tmp.12976.c1020db2af35",
     "daily-notes/2026-07-31.md",
     "proyectos/sistema-trading-cuantitativo.md",
     "resources/blog-quantinsti.md",
@@ -220,15 +243,6 @@
     "daily-notes/2026-07-29.md",
     "research/pairs-trading-cointegracion-nse-epat.md",
     "cursos/market-microstructure/mercados-de-orden-limite-vs-mercados-de-dealers.md",
-    "cursos/market-microstructure/curso-microestructura-coursera.md",
-    "cursos/market-microstructure/ciclo-de-vida-de-una-orden.md",
-    "cursos/market-microstructure/participantes-buy-side-y-sell-side.md",
-    "cursos/market-microstructure/microestructura-diseno-de-mercado-y-regulacion.md.tmp.10771.a08c6257a8d1",
-    "CLAUDE.md.tmp.6375.ad504e4b198c",
-    "proyectos/sistema-trading-cuantitativo.md.tmp.6375.60aba09038b8",
-    "cursos/topics-in-mathematics-finance-mit",
-    "cursos/finanzas-yale",
-    "cursos/market-microstructure",
-    "cursos/curso-microestructura-coursera.md.tmp.6375.cb605911bd64"
+    "cursos/market-microstructure/curso-microestructura-coursera.md"
   ]
 }
