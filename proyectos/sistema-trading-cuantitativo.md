@@ -84,3 +84,4 @@ Lista abierta — se irán añadiendo más pruebas a medida que surjan. Todas se
 - [[retrospective-simulation-trading]]
 - [[pairs-trading-cointegracion-nse-epat]]
 - [[claude-code-para-informes-de-backtesting]]
+- [[chd-volatility-expansion-breakout-strategy]]

@@ -46,6 +46,7 @@ Notas por módulo/tema, en esta misma carpeta (`cursos/market-microstructure/`),
 
 ## ✅ Próximos pasos
 - [ ] Continuar con el siguiente módulo del curso
+- [ ] Hacer un repaso de todos los contenidos dados hasta ahora (ver [[#📓 Apuntes del curso]])
 
 ## 🔗 Relacionado
 - [[curso-finanzas-yale]]

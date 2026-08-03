@@ -15,6 +15,9 @@ Colaborador en la idea de crear redes sociales de divulgación de trading cuanti
 ## 💬 Conversaciones / notas
 
 
+## 📅 Pendiente
+- [ ] Agendar llamada de control (por concretar fecha/hora): repasar cómo va cada uno con el tema quant.
+
 ## 🎯 Oportunidades / ideas
 - [[redes-sociales-divulgacion-trading-cuantitativo]]
 
