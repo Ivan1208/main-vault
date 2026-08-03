@@ -29,6 +29,7 @@ Curso "Market Microstructure", parte de la especialización "Mercados Financiero
 - 2026-07-30: Noveno resumen de clase recibido y convertido en apunte (participantes buy side / sell side).
 - 2026-07-30: Décimo resumen de clase recibido y convertido en apunte (ciclo de vida de una orden).
 - 2026-07-30: Undécimo resumen de clase recibido y convertido en apunte (mercados de orden límite vs. mercados de dealers).
+- 2026-08-03: Duodécimo resumen de clase recibido y convertido en apunte (tipos de órdenes y libro de órdenes límite).
 
 ## 📓 Apuntes del curso
 Notas por módulo/tema, en esta misma carpeta (`cursos/market-microstructure/`), enlazadas aquí a medida que se van creando:
@@ -43,6 +44,7 @@ Notas por módulo/tema, en esta misma carpeta (`cursos/market-microstructure/`),
 - [[participantes-buy-side-y-sell-side]]
 - [[ciclo-de-vida-de-una-orden]]
 - [[mercados-de-orden-limite-vs-mercados-de-dealers]]
+- [[tipos-de-ordenes-y-libro-de-ordenes-limite]]
 
 ## ✅ Próximos pasos
 - [ ] Continuar con el siguiente módulo del curso
