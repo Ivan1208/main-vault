@@ -1,0 +1,305 @@
+{
+  "main": {
+    "id": "3ea5f9e18a10f9a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d07d20f2d664fceb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80eac015e747dfef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "research/retrospective-simulation-trading.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "retrospective-simulation-trading"
+            }
+          },
+          {
+            "id": "a6ac047e1e8538a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "resources/video-claude-code-proyectos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "video-claude-code-proyectos"
+            }
+          },
+          {
+            "id": "91ac2d9448334769",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "resources/video-robotrader.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "video-robotrader"
+            }
+          },
+          {
+            "id": "e45c9b3f5bc558bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/2026-08-03.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-08-03"
+            }
+          },
+          {
+            "id": "65f248be7fe3f4ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "resources/video-claude-code-proyectos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "video-claude-code-proyectos"
+            }
+          },
+          {
+            "id": "8cdbb5ffe60b20bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/2026-08-03.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-08-03"
+            }
+          },
+          {
+            "id": "93aacdceb602d027",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9835d11456bd3065",
+    "type": "split",
+    "children": [
+      {
+        "id": "65b6b550da8393de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7df8153dbb45c813",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "da22442465156fc2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "e33db4079e107685",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "be89de610f14c0b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "049a54689ac8390a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e062c4f8253aa90c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "97d0dfe18295187b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "185d89ff945f25a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "a3b24f9e7a96ee64",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "ebaf7ff8456e848f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "93aacdceb602d027",
+  "lastOpenFiles": [
+    "doble corchete.md",
+    "templates/research.md",
+    "templates/recurso.md",
+    "templates/proyecto.md",
+    "templates/persona.md",
+    "templates/idea.md",
+    "templates/daily-note.md",
+    "templates/curso.md",
+    "templates/apunte-curso.md",
+    "daily-notes/2026-08-03.md",
+    "daily-notes/2026-08-03.md.tmp.12976.9ae64920f6ce",
+    "resources/video-claude-code-proyectos.md",
+    "daily-notes/2026-08-03.md.tmp.12976.ed4cfefba8b9",
+    "daily-notes/2026-08-03.md.tmp.12976.c1020db2af35",
+    "resources/video-robotrader.md",
+    "daily-notes/2026-07-31.md",
+    "proyectos/sistema-trading-cuantitativo.md",
+    "research/retrospective-simulation-trading.md",
+    "resources/blog-quantinsti.md",
+    "daily-notes/2026-07-30.md",
+    "daily-notes/2026-07-27.md",
+    "daily-notes/2026-07-28.md",
+    "daily-notes/2026-07-29.md",
+    "research/pairs-trading-cointegracion-nse-epat.md",
+    "cursos/market-microstructure/mercados-de-orden-limite-vs-mercados-de-dealers.md",
+    "cursos/market-microstructure/curso-microestructura-coursera.md",
+    "cursos/market-microstructure/ciclo-de-vida-de-una-orden.md",
+    "cursos/market-microstructure/participantes-buy-side-y-sell-side.md",
+    "cursos/market-microstructure/plataformas-y-mecanismos-de-negociacion.md",
+    "cursos/market-microstructure/microestructura-diseno-de-mercado-y-regulacion.md.tmp.10771.a08c6257a8d1",
+    "CLAUDE.md.tmp.6375.ad504e4b198c",
+    "proyectos/sistema-trading-cuantitativo.md.tmp.6375.60aba09038b8",
+    "cursos/topics-in-mathematics-finance-mit",
+    "cursos/finanzas-yale",
+    "cursos/market-microstructure",
+    "cursos/curso-microestructura-coursera.md.tmp.6375.cb605911bd64"
+  ]
+}
