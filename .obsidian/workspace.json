@@ -55,44 +55,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2026-08-04.md",
+                "file": "research/chd-volatility-expansion-breakout-strategy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-04"
+              "title": "chd-volatility-expansion-breakout-strategy"
             }
           },
           {
-            "id": "f48a6688247ba8fe",
+            "id": "2deab4626eb74923",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2026-08-03.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-08-03"
-            }
-          },
-          {
-            "id": "fc9f23c01dd922ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ideas/conectar-mcp-fundednext-pagos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conectar-mcp-fundednext-pagos"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -253,15 +235,16 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "f48a6688247ba8fe",
+  "active": "ee2a2752542a5e56",
   "lastOpenFiles": [
-    "research/chd-volatility-expansion-breakout-strategy.md.tmp.8940.c10a1f84ef66",
-    "ideas/conectar-mcp-fundednext-pagos.md",
-    "daily-notes/2026-08-04.md.tmp.12976.862941ccd1b8",
     "daily-notes/2026-08-04.md",
+    "daily-notes/2026-08-03.md",
+    "ideas/conectar-mcp-fundednext-pagos.md",
+    "cursos/topics-in-mathematics-finance-mit/topics-in-mathematics-finance-mit.md",
+    "research/chd-volatility-expansion-breakout-strategy.md.tmp.8940.c10a1f84ef66",
+    "daily-notes/2026-08-04.md.tmp.12976.862941ccd1b8",
     "daily-notes/2026-08-04.md.tmp.12976.269f732c8037",
     "resources/video-claude-cuentas-fondeo.md",
-    "daily-notes/2026-08-03.md",
     "cursos/market-microstructure/tipos-de-ordenes-y-libro-de-ordenes-limite.md",
     "proyectos/sistema-trading-cuantitativo.md",
     "cursos/market-microstructure/curso-microestructura-coursera.md",
@@ -276,7 +259,6 @@
     "doble corchete.md",
     "daily-notes/2026-08-03.md.tmp.12976.6cec55633dfd",
     "resources/video-claude-code-proyectos.md.tmp.12976.219df23eb572",
-    "resources/video-claude-code-proyectos.md.tmp.12976.bac833c81ba9",
     "resources/video-claude-code-proyectos.md",
     "research/retrospective-simulation-trading.md",
     "resources/video-robotrader.md",
