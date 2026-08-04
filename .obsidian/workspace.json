@@ -81,10 +81,14 @@
             "id": "fc9f23c01dd922ad",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "ideas/conectar-mcp-fundednext-pagos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conectar-mcp-fundednext-pagos"
             }
           }
         ],
@@ -251,6 +255,8 @@
   },
   "active": "fc9f23c01dd922ad",
   "lastOpenFiles": [
+    "daily-notes/2026-08-04.md.tmp.12976.862941ccd1b8",
+    "ideas/conectar-mcp-fundednext-pagos.md",
     "daily-notes/2026-08-04.md",
     "daily-notes/2026-08-04.md.tmp.12976.269f732c8037",
     "resources/video-claude-cuentas-fondeo.md",
@@ -284,8 +290,6 @@
     "templates/curso.md",
     "templates/apunte-curso.md",
     "daily-notes/2026-07-31.md",
-    "resources/blog-quantinsti.md",
-    "daily-notes/2026-07-30.md",
-    "daily-notes/2026-07-27.md"
+    "resources/blog-quantinsti.md"
   ]
 }
