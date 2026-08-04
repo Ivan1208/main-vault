@@ -53,10 +53,14 @@
             "id": "ee2a2752542a5e56",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/2026-08-04.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-08-04"
             }
           },
           {
@@ -237,6 +241,9 @@
   },
   "active": "ee2a2752542a5e56",
   "lastOpenFiles": [
+    "daily-notes/2026-08-04.md",
+    "daily-notes/2026-08-04.md.tmp.12976.269f732c8037",
+    "resources/video-claude-cuentas-fondeo.md",
     "daily-notes/2026-08-03.md",
     "cursos/market-microstructure/tipos-de-ordenes-y-libro-de-ordenes-limite.md",
     "proyectos/sistema-trading-cuantitativo.md",
@@ -254,7 +261,6 @@
     "resources/video-claude-code-proyectos.md.tmp.12976.219df23eb572",
     "resources/video-claude-code-proyectos.md.tmp.12976.bac833c81ba9",
     "proyectos/sistema-trading-cuantitativo.md.tmp.12976.7d933a191102",
-    "proyectos/sistema-trading-cuantitativo.md.tmp.12976.c1a7b667e146",
     "resources/video-claude-code-proyectos.md",
     "research/retrospective-simulation-trading.md",
     "resources/video-robotrader.md",
@@ -270,7 +276,6 @@
     "daily-notes/2026-07-31.md",
     "resources/blog-quantinsti.md",
     "daily-notes/2026-07-30.md",
-    "daily-notes/2026-07-27.md",
-    "daily-notes/2026-07-28.md"
+    "daily-notes/2026-07-27.md"
   ]
 }
