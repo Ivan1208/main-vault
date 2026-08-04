@@ -76,9 +76,19 @@
               "icon": "lucide-file",
               "title": "2026-08-03"
             }
+          },
+          {
+            "id": "fc9f23c01dd922ad",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -239,7 +249,7 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "ee2a2752542a5e56",
+  "active": "fc9f23c01dd922ad",
   "lastOpenFiles": [
     "daily-notes/2026-08-04.md",
     "daily-notes/2026-08-04.md.tmp.12976.269f732c8037",
