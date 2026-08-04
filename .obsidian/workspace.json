@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -235,8 +235,11 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "ee2a2752542a5e56",
+  "active": "2deab4626eb74923",
   "lastOpenFiles": [
+    "research/chd-volatility-expansion-breakout-strategy.md",
+    "research/sistema-trading-parametros-adaptativos-walk-forward.md",
+    "research/sistema-trading-parametros-adaptativos-walk-forward.md.tmp.8940.950e00c36375",
     "daily-notes/2026-08-04.md",
     "daily-notes/2026-08-03.md",
     "ideas/conectar-mcp-fundednext-pagos.md",
@@ -255,10 +258,8 @@
     "cursos/market-microstructure/curso-microestructura-coursera.md.tmp.12976.ec1a61e66f24",
     "ideas/claude-code-para-informes-de-backtesting.md",
     "personas/daniel-rozalen.md.tmp.12976.c81b75a2bdc9",
-    "research/chd-volatility-expansion-breakout-strategy.md",
     "doble corchete.md",
     "daily-notes/2026-08-03.md.tmp.12976.6cec55633dfd",
-    "resources/video-claude-code-proyectos.md.tmp.12976.219df23eb572",
     "resources/video-claude-code-proyectos.md",
     "research/retrospective-simulation-trading.md",
     "resources/video-robotrader.md",
@@ -271,7 +272,6 @@
     "templates/daily-note.md",
     "templates/curso.md",
     "templates/apunte-curso.md",
-    "daily-notes/2026-07-31.md",
-    "resources/blog-quantinsti.md"
+    "daily-notes/2026-07-31.md"
   ]
 }
