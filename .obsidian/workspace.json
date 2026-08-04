@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -235,7 +235,7 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "f48a6688247ba8fe",
+  "active": "ee2a2752542a5e56",
   "lastOpenFiles": [
     "daily-notes/2026-08-03.md",
     "cursos/market-microstructure/tipos-de-ordenes-y-libro-de-ordenes-limite.md",
