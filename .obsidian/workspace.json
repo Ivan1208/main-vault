@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -253,10 +253,11 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "fc9f23c01dd922ad",
+  "active": "f48a6688247ba8fe",
   "lastOpenFiles": [
-    "daily-notes/2026-08-04.md.tmp.12976.862941ccd1b8",
+    "research/chd-volatility-expansion-breakout-strategy.md.tmp.8940.c10a1f84ef66",
     "ideas/conectar-mcp-fundednext-pagos.md",
+    "daily-notes/2026-08-04.md.tmp.12976.862941ccd1b8",
     "daily-notes/2026-08-04.md",
     "daily-notes/2026-08-04.md.tmp.12976.269f732c8037",
     "resources/video-claude-cuentas-fondeo.md",
@@ -276,7 +277,6 @@
     "daily-notes/2026-08-03.md.tmp.12976.6cec55633dfd",
     "resources/video-claude-code-proyectos.md.tmp.12976.219df23eb572",
     "resources/video-claude-code-proyectos.md.tmp.12976.bac833c81ba9",
-    "proyectos/sistema-trading-cuantitativo.md.tmp.12976.7d933a191102",
     "resources/video-claude-code-proyectos.md",
     "research/retrospective-simulation-trading.md",
     "resources/video-robotrader.md",
