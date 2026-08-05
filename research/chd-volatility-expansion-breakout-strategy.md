@@ -20,8 +20,12 @@ El artículo está parcialmente oculto tras el muro de membresía de Medium. No 
 ## 🛠 Aplicación práctica
 Decidido (2026-08-04): entra en la lista de estrategias a testear de [[sistema-trading-cuantitativo]] (Fase 1 → Fase 3). En marcha:
 1. Conseguir acceso completo al artículo (membresía Medium) para extraer las reglas exactas de entrada/salida y gestión de riesgo antes de intentar replicarla.
-2. Implementar Mass Index + Bandas de Bollinger como señales en el motor de backtesting (VectorBT) — en progreso.
+2. ~~Implementar Mass Index + Bandas de Bollinger como señales en el motor de backtesting (VectorBT)~~ — hecho el 2026-08-05.
 3. Pasarla por las pruebas de validación ya definidas del proyecto (walk-forward, Monte Carlo permutation test, etc.) antes de considerarla viable — el propio artículo no aporta métricas de robustez, así que esa validación recae enteramente en el proceso propio.
+
+## 📊 Resultados / Observaciones (2026-08-05)
+- Primera implementación en VectorBT lista, pero los retornos salen muy parecidos a los del activo subyacente (buy-and-hold) — señal de que la estrategia no está aportando alpha real todavía.
+- Siguientes pasos: añadir un filtro de tendencia a las señales para intentar diferenciar el comportamiento del de comprar y mantener, y luego pasarla por el walk-forward.
 
 ## 🔗 Relacionado
 - [[sistema-trading-cuantitativo]]

@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2026-08-05.md",
+                "file": "research/chd-volatility-expansion-breakout-strategy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-05"
+              "title": "chd-volatility-expansion-breakout-strategy"
             }
           }
         ],
@@ -242,6 +242,7 @@
   "active": "2deab4626eb74923",
   "lastOpenFiles": [
     "daily-notes/2026-08-05.md",
+    "research/chd-volatility-expansion-breakout-strategy.md.tmp.8940.e8cb48142736",
     "daily-notes/2026-08-05.md.tmp.8940.c5262b741d51",
     "research/chd-volatility-expansion-breakout-strategy.md",
     "research/sistema-trading-parametros-adaptativos-walk-forward.md",
@@ -263,7 +264,6 @@
     "daily-notes/2026-08-03.md.tmp.12976.0a19d20edcc9",
     "cursos/market-microstructure/curso-microestructura-coursera.md.tmp.12976.ec1a61e66f24",
     "ideas/claude-code-para-informes-de-backtesting.md",
-    "personas/daniel-rozalen.md.tmp.12976.c81b75a2bdc9",
     "doble corchete.md",
     "resources/video-claude-code-proyectos.md",
     "research/retrospective-simulation-trading.md",
@@ -275,7 +275,6 @@
     "templates/persona.md",
     "templates/idea.md",
     "templates/daily-note.md",
-    "templates/curso.md",
-    "templates/apunte-curso.md"
+    "templates/curso.md"
   ]
 }
