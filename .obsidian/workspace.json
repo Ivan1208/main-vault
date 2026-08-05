@@ -67,10 +67,14 @@
             "id": "2deab4626eb74923",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/2026-08-05.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-08-05"
             }
           }
         ],
@@ -237,6 +241,8 @@
   },
   "active": "2deab4626eb74923",
   "lastOpenFiles": [
+    "daily-notes/2026-08-05.md",
+    "daily-notes/2026-08-05.md.tmp.8940.c5262b741d51",
     "research/chd-volatility-expansion-breakout-strategy.md",
     "research/sistema-trading-parametros-adaptativos-walk-forward.md",
     "research/sistema-trading-parametros-adaptativos-walk-forward.md.tmp.8940.950e00c36375",
@@ -259,7 +265,6 @@
     "ideas/claude-code-para-informes-de-backtesting.md",
     "personas/daniel-rozalen.md.tmp.12976.c81b75a2bdc9",
     "doble corchete.md",
-    "daily-notes/2026-08-03.md.tmp.12976.6cec55633dfd",
     "resources/video-claude-code-proyectos.md",
     "research/retrospective-simulation-trading.md",
     "resources/video-robotrader.md",
@@ -271,7 +276,6 @@
     "templates/idea.md",
     "templates/daily-note.md",
     "templates/curso.md",
-    "templates/apunte-curso.md",
-    "daily-notes/2026-07-31.md"
+    "templates/apunte-curso.md"
   ]
 }
