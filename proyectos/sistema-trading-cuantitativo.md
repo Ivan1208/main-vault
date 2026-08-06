@@ -86,3 +86,4 @@ Lista abierta — se irán añadiendo más pruebas a medida que surjan. Todas se
 - [[claude-code-para-informes-de-backtesting]]
 - [[chd-volatility-expansion-breakout-strategy]]
 - [[sistema-trading-parametros-adaptativos-walk-forward]]
+- [[quantopian-lectures]]
