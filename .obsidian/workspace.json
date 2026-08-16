@@ -25,14 +25,17 @@
             "id": "7b40cb005a8ec873",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/2026-08-16.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-08-16"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,8 +196,10 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "7b40cb005a8ec873",
+  "active": "49525ddbcc76eb4b",
   "lastOpenFiles": [
+    "daily-notes/2026-08-16.md",
+    "daily-notes/2026-08-16.md.tmp.16376.22142ecb1dfe",
     "daily-notes/2026-08-03.md",
     "ideas/claude-code-para-informes-de-backtesting.md",
     "cursos/market-microstructure/tipos-de-ordenes-y-libro-de-ordenes-limite.md",
@@ -221,7 +226,6 @@
     "cursos/market-microstructure/mercados-de-orden-limite-vs-mercados-de-dealers.md",
     "daily-notes/2026-08-03.md.tmp.12976.56db3795b7af",
     "cursos/market-microstructure/curso-microestructura-coursera.md.tmp.12976.0a51552da666",
-    "daily-notes/2026-08-03.md.tmp.12976.0a19d20edcc9",
     "doble corchete.md",
     "resources/video-claude-code-proyectos.md",
     "research/retrospective-simulation-trading.md",
@@ -229,7 +233,6 @@
     "templates/research.md",
     "templates/recurso.md",
     "templates/proyecto.md",
-    "templates/persona.md",
-    "templates/idea.md"
+    "templates/persona.md"
   ]
 }
