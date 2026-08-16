@@ -22,143 +22,17 @@
             }
           },
           {
-            "id": "1f492191fa06baf3",
+            "id": "7b40cb005a8ec873",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ideas/claude-code-para-informes-de-backtesting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "claude-code-para-informes-de-backtesting"
-            }
-          },
-          {
-            "id": "5870484b651ffee7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cursos/market-microstructure/tipos-de-ordenes-y-libro-de-ordenes-limite.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "tipos-de-ordenes-y-libro-de-ordenes-limite"
-            }
-          },
-          {
-            "id": "ee2a2752542a5e56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "research/chd-volatility-expansion-breakout-strategy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "chd-volatility-expansion-breakout-strategy"
-            }
-          },
-          {
-            "id": "2deab4626eb74923",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "research/chd-volatility-expansion-breakout-strategy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "chd-volatility-expansion-breakout-strategy"
-            }
-          },
-          {
-            "id": "15992f38646958da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2026-08-06.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-08-06"
-            }
-          },
-          {
-            "id": "e20ed3edde0046bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cursos/quantopian-lectures.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "quantopian-lectures"
-            }
-          },
-          {
-            "id": "5317a69fe21bc392",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "proyectos/sistema-trading-cuantitativo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "sistema-trading-cuantitativo"
-            }
-          },
-          {
-            "id": "513c38839e645172",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2026-08-06.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-08-06"
-            }
-          },
-          {
-            "id": "0bb93d5adc221566",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cursos/market-microstructure/curso-microestructura-coursera.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "curso-microestructura-coursera"
-            }
-          },
-          {
-            "id": "9ec94055595b844d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -319,14 +193,17 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "9ec94055595b844d",
+  "active": "7b40cb005a8ec873",
   "lastOpenFiles": [
-    "cursos/market-microstructure/curso-microestructura-coursera.md",
+    "daily-notes/2026-08-03.md",
+    "ideas/claude-code-para-informes-de-backtesting.md",
+    "cursos/market-microstructure/tipos-de-ordenes-y-libro-de-ordenes-limite.md",
     "research/chd-volatility-expansion-breakout-strategy.md",
-    "cursos/market-microstructure/precios-mercados-perfectos-vs-reales.md",
     "daily-notes/2026-08-06.md",
-    "proyectos/sistema-trading-cuantitativo.md",
     "cursos/quantopian-lectures.md",
+    "proyectos/sistema-trading-cuantitativo.md",
+    "cursos/market-microstructure/curso-microestructura-coursera.md",
+    "cursos/market-microstructure/precios-mercados-perfectos-vs-reales.md",
     "cursos/quantopian-lectures.md.tmp.8940.7bccebec4bcd",
     "resources/forex-pair-correlation-risk-management.md",
     "daily-notes/2026-08-05.md",
@@ -335,19 +212,16 @@
     "research/sistema-trading-parametros-adaptativos-walk-forward.md",
     "research/sistema-trading-parametros-adaptativos-walk-forward.md.tmp.8940.950e00c36375",
     "daily-notes/2026-08-04.md",
-    "daily-notes/2026-08-03.md",
     "ideas/conectar-mcp-fundednext-pagos.md",
     "cursos/topics-in-mathematics-finance-mit/topics-in-mathematics-finance-mit.md",
     "research/chd-volatility-expansion-breakout-strategy.md.tmp.8940.c10a1f84ef66",
     "daily-notes/2026-08-04.md.tmp.12976.862941ccd1b8",
     "daily-notes/2026-08-04.md.tmp.12976.269f732c8037",
     "resources/video-claude-cuentas-fondeo.md",
-    "cursos/market-microstructure/tipos-de-ordenes-y-libro-de-ordenes-limite.md",
     "cursos/market-microstructure/mercados-de-orden-limite-vs-mercados-de-dealers.md",
     "daily-notes/2026-08-03.md.tmp.12976.56db3795b7af",
     "cursos/market-microstructure/curso-microestructura-coursera.md.tmp.12976.0a51552da666",
     "daily-notes/2026-08-03.md.tmp.12976.0a19d20edcc9",
-    "ideas/claude-code-para-informes-de-backtesting.md",
     "doble corchete.md",
     "resources/video-claude-code-proyectos.md",
     "research/retrospective-simulation-trading.md",
