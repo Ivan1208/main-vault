@@ -35,7 +35,8 @@
               "title": "2026-08-16"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,11 +197,12 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "49525ddbcc76eb4b",
+  "active": "7b40cb005a8ec873",
   "lastOpenFiles": [
+    "daily-notes/2026-08-03.md",
+    "daily-notes/2026-08-16.md.tmp.16376.9b207c0cc078",
     "daily-notes/2026-08-16.md",
     "daily-notes/2026-08-16.md.tmp.16376.22142ecb1dfe",
-    "daily-notes/2026-08-03.md",
     "ideas/claude-code-para-informes-de-backtesting.md",
     "cursos/market-microstructure/tipos-de-ordenes-y-libro-de-ordenes-limite.md",
     "research/chd-volatility-expansion-breakout-strategy.md",
@@ -225,14 +227,12 @@
     "resources/video-claude-cuentas-fondeo.md",
     "cursos/market-microstructure/mercados-de-orden-limite-vs-mercados-de-dealers.md",
     "daily-notes/2026-08-03.md.tmp.12976.56db3795b7af",
-    "cursos/market-microstructure/curso-microestructura-coursera.md.tmp.12976.0a51552da666",
     "doble corchete.md",
     "resources/video-claude-code-proyectos.md",
     "research/retrospective-simulation-trading.md",
     "resources/video-robotrader.md",
     "templates/research.md",
     "templates/recurso.md",
-    "templates/proyecto.md",
-    "templates/persona.md"
+    "templates/proyecto.md"
   ]
 }
