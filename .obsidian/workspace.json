@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "2026-08-18"
             }
+          },
+          {
+            "id": "cdd906ba715a5153",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "resources/video-claude-code-proyectos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "video-claude-code-proyectos"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -211,10 +225,13 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "d6fb2acbe882ca17",
+  "active": "cdd906ba715a5153",
   "lastOpenFiles": [
-    "daily-notes/2026-08-16.md",
+    "resources/blog-quantinsti.md",
+    "resources/forex-pair-correlation-risk-management.md",
+    "resources/video-robotrader.md",
     "daily-notes/2026-08-18.md",
+    "daily-notes/2026-08-16.md",
     "daily-notes/2026-08-06.md",
     "daily-notes/2026-08-03.md",
     "daily-notes/2026-08-16.md.tmp.16376.9b207c0cc078",
@@ -227,7 +244,6 @@
     "cursos/market-microstructure/curso-microestructura-coursera.md",
     "cursos/market-microstructure/precios-mercados-perfectos-vs-reales.md",
     "cursos/quantopian-lectures.md.tmp.8940.7bccebec4bcd",
-    "resources/forex-pair-correlation-risk-management.md",
     "daily-notes/2026-08-05.md",
     "research/chd-volatility-expansion-breakout-strategy.md.tmp.8940.e8cb48142736",
     "daily-notes/2026-08-05.md.tmp.8940.c5262b741d51",
@@ -245,9 +261,7 @@
     "doble corchete.md",
     "resources/video-claude-code-proyectos.md",
     "research/retrospective-simulation-trading.md",
-    "resources/video-robotrader.md",
     "templates/research.md",
-    "templates/recurso.md",
-    "templates/proyecto.md"
+    "templates/recurso.md"
   ]
 }
