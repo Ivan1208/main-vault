@@ -28,3 +28,4 @@ Notas por módulo/tema, en esta misma carpeta (`cursos/topics-in-mathematics-fin
 
 ## 🔗 Relacionado
 - [[sistema-trading-cuantitativo]]
+- [[syllabus-quant-gratuito-mit-stanford]] — posible mismo curso (18.642) recomendado en esta ruta de aprendizaje, revisar si coincide con 18.S096
