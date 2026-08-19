@@ -174,9 +174,23 @@
               "icon": "lucide-file",
               "title": "descubrimiento-de-precios"
             }
+          },
+          {
+            "id": "f87a2775d915b5f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ideas/ensembled-signals-en-sistemas-de-trading.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ensembled-signals-en-sistemas-de-trading"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -337,8 +351,14 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "68c81fd6acf1f10b",
+  "active": "f87a2775d915b5f7",
   "lastOpenFiles": [
+    "cursos/market-microstructure/precios-mercados-perfectos-vs-reales.md",
+    "daily-notes/2026-08-19.md",
+    "daily-notes/2026-08-19.md.tmp.22148.8bd29351be52",
+    "proyectos/sistema-trading-cuantitativo.md.tmp.22148.1f6bf0764acd",
+    "ideas/ensembled-signals-en-sistemas-de-trading.md",
+    "ideas/ensembled-signals-en-sistemas-de-trading.md.tmp.22148.8b01d04baf51",
     "cursos/market-microstructure/liquidez-de-mercado-y-bid-ask-spread.md",
     "cursos/market-microstructure/curso-microestructura-coursera.md",
     "cursos/market-microstructure/tipos-de-ordenes-y-libro-de-ordenes-limite.md",
@@ -352,7 +372,6 @@
     "cursos/market-microstructure/descubrimiento-de-precios.md",
     "proyectos/sistema-trading-cuantitativo.md",
     "cursos/syllabus-quant-gratuito-mit-stanford.md",
-    "cursos/market-microstructure/precios-mercados-perfectos-vs-reales.md",
     "resources/video-claude-code-proyectos.md",
     "resources/blog-quantinsti.md",
     "resources/forex-pair-correlation-risk-management.md",
@@ -365,15 +384,10 @@
     "daily-notes/2026-08-16.md.tmp.16376.22142ecb1dfe",
     "ideas/claude-code-para-informes-de-backtesting.md",
     "research/chd-volatility-expansion-breakout-strategy.md",
-    "cursos/quantopian-lectures.md",
     "cursos/quantopian-lectures.md.tmp.8940.7bccebec4bcd",
-    "daily-notes/2026-08-05.md",
     "research/chd-volatility-expansion-breakout-strategy.md.tmp.8940.e8cb48142736",
     "daily-notes/2026-08-05.md.tmp.8940.c5262b741d51",
     "research/sistema-trading-parametros-adaptativos-walk-forward.md.tmp.8940.950e00c36375",
-    "research/chd-volatility-expansion-breakout-strategy.md.tmp.8940.c10a1f84ef66",
-    "daily-notes/2026-08-04.md.tmp.12976.862941ccd1b8",
-    "daily-notes/2026-08-04.md.tmp.12976.269f732c8037",
-    "daily-notes/2026-08-03.md.tmp.12976.56db3795b7af"
+    "research/chd-volatility-expansion-breakout-strategy.md.tmp.8940.c10a1f84ef66"
   ]
 }
