@@ -54,8 +54,9 @@ Proyecto personal, en paralelo a mis estudios de Ciencia de Datos Aplicada en la
 ## 🧪 Pruebas de validación (por estrategia)
 Lista abierta — se irán añadiendo más pruebas a medida que surjan. Todas se implementan con VectorBT.
 
-- [x] Walk-forward test — implementado
-- [ ] In-sample Monte Carlo permutation test — implementado, pendiente de refinar (ver [[retrospective-simulation-trading]] para el framework de refinamiento: bootstrap no paramétrico, anclaje a precios reales, optimización por consenso multi-camino, métricas VaR/CVaR/skew/kurtosis)
+- [x] Walk-forward test — implementado, con generador de informes propio ya terminado (2026-08-21)
+- [ ] Cluster walk-forward test — siguiente paso en marcha (2026-08-21), variante más avanzada del walk-forward
+- [ ] In-sample Monte Carlo permutation test — implementado a nivel de framework, pendiente de refinar (ver [[retrospective-simulation-trading]] para el framework de refinamiento: bootstrap no paramétrico, anclaje a precios reales, optimización por consenso multi-camino, métricas VaR/CVaR/skew/kurtosis) y de aplicar a la estrategia de reversión Z-Score en EUR/USD
 - [ ] System param permutation test
 - [ ] Benchmark comparison
 - [ ] Slippage and commission variation test
@@ -63,7 +64,7 @@ Lista abierta — se irán añadiendo más pruebas a medida que surjan. Todas se
 
 **Entorno de testeo + informes:** se va a desarrollar con Claude Code un entorno que ejecute estas pruebas de validación sobre cada estrategia y genere un informe con los resultados.
 - [ ] Diseñar con Claude Code el entorno de testeo que ejecute todas las pruebas de validación de esta lista sobre una estrategia dada
-- [ ] Diseñar con Claude Code el generador de informes (recoge los resultados de cada prueba por estrategia)
+- [ ] Diseñar con Claude Code el generador de informes global (recoge los resultados de cada prueba por estrategia) — de momento existe el del walk-forward, falta extenderlo al resto de pruebas
 - [ ] Explorar [[claude-code-para-informes-de-backtesting]]: usar Claude Code para almacenar y organizar los gráficos/informes de cada backtest
 
 ### Fase 4 — Integración Python + MT5
