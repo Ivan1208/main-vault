@@ -188,9 +188,19 @@
               "icon": "lucide-file",
               "title": "ensembled-signals-en-sistemas-de-trading"
             }
+          },
+          {
+            "id": "f0c44b60ea22e7a0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -351,8 +361,9 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "f87a2775d915b5f7",
+  "active": "f0c44b60ea22e7a0",
   "lastOpenFiles": [
+    "ideas/ensembled-signals-en-sistemas-de-trading.md",
     "daily-notes/2026-08-21.md",
     "daily-notes/2026-08-21.md.tmp.39568.c0b85cec8c6d",
     "daily-notes/2026-08-19.md.tmp.39568.25b54df03748",
@@ -360,7 +371,6 @@
     "daily-notes/2026-08-19.md",
     "daily-notes/2026-08-19.md.tmp.22148.8bd29351be52",
     "proyectos/sistema-trading-cuantitativo.md.tmp.22148.1f6bf0764acd",
-    "ideas/ensembled-signals-en-sistemas-de-trading.md",
     "ideas/ensembled-signals-en-sistemas-de-trading.md.tmp.22148.8b01d04baf51",
     "cursos/market-microstructure/liquidez-de-mercado-y-bid-ask-spread.md",
     "cursos/market-microstructure/curso-microestructura-coursera.md",
