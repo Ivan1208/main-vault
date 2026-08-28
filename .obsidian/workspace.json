@@ -198,9 +198,19 @@
               "icon": "lucide-file",
               "title": "Nueva pestaña"
             }
+          },
+          {
+            "id": "9a53b8ae046da141",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -361,7 +371,7 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "f0c44b60ea22e7a0",
+  "active": "9a53b8ae046da141",
   "lastOpenFiles": [
     "ideas/ensembled-signals-en-sistemas-de-trading.md",
     "daily-notes/2026-08-21.md",
