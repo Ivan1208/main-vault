@@ -219,12 +219,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2026-09-01.md",
+                "file": "resources/video-claude-analista-financiero.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-01"
+              "title": "video-claude-analista-financiero"
             }
           }
         ],
@@ -392,6 +392,9 @@
   "active": "1256a5c8a38d6d98",
   "lastOpenFiles": [
     "daily-notes/2026-09-01.md",
+    "daily-notes/2026-09-01.md.tmp.8648.48c4e63ced65",
+    "resources/video-claude-analista-financiero.md",
+    "resources/video-claude-analista-financiero.md.tmp.8648.b7c931260ab2",
     "daily-notes/2026-09-01.md.tmp.8648.99d529878d2f",
     "proyectos/sistema-trading-cuantitativo.md.tmp.8648.86bc832eac40",
     "resources/databento.md",
@@ -422,10 +425,6 @@
     "resources/blog-quantinsti.md",
     "resources/forex-pair-correlation-risk-management.md",
     "resources/video-robotrader.md",
-    "daily-notes/2026-08-18.md",
-    "daily-notes/2026-08-16.md",
-    "daily-notes/2026-08-06.md",
-    "daily-notes/2026-08-16.md.tmp.16376.9b207c0cc078",
-    "daily-notes/2026-08-16.md.tmp.16376.22142ecb1dfe"
+    "daily-notes/2026-08-18.md"
   ]
 }

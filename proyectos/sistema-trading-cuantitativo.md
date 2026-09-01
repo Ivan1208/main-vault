@@ -91,3 +91,4 @@ Lista abierta — se irán añadiendo más pruebas a medida que surjan. Todas se
 - [[syllabus-quant-gratuito-mit-stanford]]
 - [[ensembled-signals-en-sistemas-de-trading]]
 - [[databento]]
+- [[video-claude-analista-financiero]]
