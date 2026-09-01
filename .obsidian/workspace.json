@@ -212,9 +212,19 @@
               "icon": "lucide-file",
               "title": "2026-08-21"
             }
+          },
+          {
+            "id": "1256a5c8a38d6d98",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -375,10 +385,15 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "9a53b8ae046da141",
+  "active": "1256a5c8a38d6d98",
   "lastOpenFiles": [
-    "ideas/ensembled-signals-en-sistemas-de-trading.md",
+    "daily-notes/2026-09-01.md",
+    "daily-notes/2026-09-01.md.tmp.8648.99d529878d2f",
+    "proyectos/sistema-trading-cuantitativo.md.tmp.8648.86bc832eac40",
+    "resources/databento.md",
+    "resources/databento.md.tmp.8648.cf564ec3f824",
     "daily-notes/2026-08-21.md",
+    "ideas/ensembled-signals-en-sistemas-de-trading.md",
     "daily-notes/2026-08-21.md.tmp.39568.c0b85cec8c6d",
     "daily-notes/2026-08-19.md.tmp.39568.25b54df03748",
     "cursos/market-microstructure/precios-mercados-perfectos-vs-reales.md",
@@ -406,12 +421,7 @@
     "daily-notes/2026-08-18.md",
     "daily-notes/2026-08-16.md",
     "daily-notes/2026-08-06.md",
-    "daily-notes/2026-08-03.md",
     "daily-notes/2026-08-16.md.tmp.16376.9b207c0cc078",
-    "daily-notes/2026-08-16.md.tmp.16376.22142ecb1dfe",
-    "ideas/claude-code-para-informes-de-backtesting.md",
-    "cursos/quantopian-lectures.md.tmp.8940.7bccebec4bcd",
-    "research/chd-volatility-expansion-breakout-strategy.md.tmp.8940.e8cb48142736",
-    "daily-notes/2026-08-05.md.tmp.8940.c5262b741d51"
+    "daily-notes/2026-08-16.md.tmp.16376.22142ecb1dfe"
   ]
 }
