@@ -205,12 +205,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2026-08-21.md",
+                "file": "daily-notes/2026-09-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-21"
+              "title": "2026-09-01"
             }
           },
           {
@@ -228,7 +228,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -389,17 +389,17 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "1256a5c8a38d6d98",
+  "active": "9a53b8ae046da141",
   "lastOpenFiles": [
+    "daily-notes/2026-08-21.md",
+    "resources/video-claude-analista-financiero.md",
     "daily-notes/2026-09-01.md",
     "daily-notes/2026-09-01.md.tmp.8648.48c4e63ced65",
-    "resources/video-claude-analista-financiero.md",
     "resources/video-claude-analista-financiero.md.tmp.8648.b7c931260ab2",
     "daily-notes/2026-09-01.md.tmp.8648.99d529878d2f",
     "proyectos/sistema-trading-cuantitativo.md.tmp.8648.86bc832eac40",
     "resources/databento.md",
     "resources/databento.md.tmp.8648.cf564ec3f824",
-    "daily-notes/2026-08-21.md",
     "ideas/ensembled-signals-en-sistemas-de-trading.md",
     "daily-notes/2026-08-21.md.tmp.39568.c0b85cec8c6d",
     "daily-notes/2026-08-19.md.tmp.39568.25b54df03748",
