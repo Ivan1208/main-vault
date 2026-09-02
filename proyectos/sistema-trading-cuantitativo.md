@@ -55,7 +55,7 @@ Proyecto personal, en paralelo a mis estudios de Ciencia de Datos Aplicada en la
 Lista abierta — se irán añadiendo más pruebas a medida que surjan. Todas se implementan con VectorBT.
 
 - [x] Walk-forward test — implementado, con generador de informes propio ya terminado (2026-08-21)
-- [ ] Cluster walk-forward test — siguiente paso en marcha (2026-08-21), variante más avanzada del walk-forward
+- [x] Cluster walk-forward test — implementado (2026-09-02), pendiente probarlo con varias estrategias e interpretar bien los resultados
 - [ ] In-sample Monte Carlo permutation test — implementado a nivel de framework, pendiente de refinar (ver [[retrospective-simulation-trading]] para el framework de refinamiento: bootstrap no paramétrico, anclaje a precios reales, optimización por consenso multi-camino, métricas VaR/CVaR/skew/kurtosis) y de aplicar a la estrategia de reversión Z-Score en EUR/USD
 - [ ] System param permutation test
 - [ ] Benchmark comparison
