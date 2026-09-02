@@ -205,12 +205,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2026-09-01.md",
+                "file": "research/retrospective-simulation-trading.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-01"
+              "title": "retrospective-simulation-trading"
             }
           },
           {
@@ -391,10 +391,11 @@
   },
   "active": "9a53b8ae046da141",
   "lastOpenFiles": [
+    "proyectos/sistema-trading-cuantitativo.md",
     "daily-notes/2026-09-02.md",
+    "daily-notes/2026-09-01.md",
     "daily-notes/2026-08-21.md",
     "resources/video-claude-analista-financiero.md",
-    "daily-notes/2026-09-01.md",
     "daily-notes/2026-09-01.md.tmp.8648.48c4e63ced65",
     "resources/video-claude-analista-financiero.md.tmp.8648.b7c931260ab2",
     "daily-notes/2026-09-01.md.tmp.8648.99d529878d2f",
@@ -420,7 +421,6 @@
     "cursos/market-microstructure/conceptos-centrales-microestructura-y-puzzles-empiricos.md",
     "cursos/market-microstructure/importancia-de-la-liquidez-de-mercado.md",
     "cursos/market-microstructure/descubrimiento-de-precios.md",
-    "proyectos/sistema-trading-cuantitativo.md",
     "cursos/syllabus-quant-gratuito-mit-stanford.md",
     "resources/video-claude-code-proyectos.md",
     "resources/blog-quantinsti.md",
