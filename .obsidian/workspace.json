@@ -202,9 +202,19 @@
               "icon": "lucide-file",
               "title": "syllabus-quant-gratuito-mit-stanford"
             }
+          },
+          {
+            "id": "252b02509ba74590",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -365,9 +375,10 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "d7d292a2a769c068",
+  "active": "252b02509ba74590",
   "lastOpenFiles": [
     "daily-notes/2026-09-02.md",
+    "cursos/syllabus-quant-gratuito-mit-stanford.md",
     "daily-notes/2026-09-05.md",
     "daily-notes/2026-09-06.md",
     "cursos/market-microstructure/descubrimiento-de-precios.md",
@@ -400,7 +411,6 @@
     "cursos/market-microstructure/microestructura-diseno-de-mercado-y-regulacion.md",
     "cursos/market-microstructure/conceptos-centrales-microestructura-y-puzzles-empiricos.md",
     "cursos/market-microstructure/importancia-de-la-liquidez-de-mercado.md",
-    "cursos/syllabus-quant-gratuito-mit-stanford.md",
     "resources/video-claude-code-proyectos.md",
     "resources/blog-quantinsti.md"
   ]
