@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7ccc70fc7379b194",
+        "id": "1faa6076e3c0df81",
         "type": "tabs",
         "children": [
           {
-            "id": "3c5a14357eacde2d",
+            "id": "d44a542330c5e73b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2026-09-06.md",
+                "file": "daily-notes/2026-09-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-06"
+              "title": "2026-09-13"
             }
           }
         ]
@@ -182,8 +182,9 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "3c5a14357eacde2d",
+  "active": "d44a542330c5e73b",
   "lastOpenFiles": [
+    "daily-notes/2026-09-06.md",
     "ideas/crear-boveda-universidad.md.tmp.9156.eb8ec29d4b15",
     "daily-notes/2026-09-13.md.tmp.9156.3607e676e8dc",
     "daily-notes/2026-09-07.md",
@@ -204,7 +205,6 @@
     "mercado/analisis_mercado_20260913.md",
     "daily-notes/2026-09-07.md.tmp.15620.fce81ff45dc2",
     "daily-notes/2026-09-05.md",
-    "daily-notes/2026-09-06.md",
     "ideas/ensembled-signals-en-sistemas-de-trading.md",
     "resources/video-claude-analista-financiero.md",
     "research/retrospective-simulation-trading.md",
@@ -218,7 +218,6 @@
     "resources/databento.md",
     "resources/databento.md.tmp.8648.cf564ec3f824",
     "daily-notes/2026-08-21.md.tmp.39568.c0b85cec8c6d",
-    "daily-notes/2026-08-19.md.tmp.39568.25b54df03748",
     "daily-notes/2026-08-19.md"
   ]
 }
