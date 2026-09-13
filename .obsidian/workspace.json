@@ -34,8 +34,19 @@
               "icon": "lucide-file",
               "title": "analisis_mercado_profundo_20260913"
             }
+          },
+          {
+            "id": "ead72d9055bfe713",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,10 +207,10 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "d44a542330c5e73b",
+  "active": "ead72d9055bfe713",
   "lastOpenFiles": [
-    "mercado/analisis_mercado_profundo_20260913.md",
     "daily-notes/2026-09-13.md",
+    "mercado/analisis_mercado_profundo_20260913.md",
     "daily-notes/2026-09-06.md",
     "ideas/crear-boveda-universidad.md.tmp.9156.eb8ec29d4b15",
     "daily-notes/2026-09-13.md.tmp.9156.3607e676e8dc",
