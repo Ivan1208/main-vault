@@ -1,5 +1,5 @@
 ---
-estado: sin-madurar
+estado: en-curso
 tags:
   - idea
 ---
