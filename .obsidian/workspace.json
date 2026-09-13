@@ -204,13 +204,17 @@
             }
           },
           {
-            "id": "252b02509ba74590",
+            "id": "014e1fe6549bee0f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "mercado/analisis_mercado_profundo_20260913.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "analisis_mercado_profundo_20260913"
             }
           }
         ],
@@ -375,13 +379,15 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "252b02509ba74590",
+  "active": "014e1fe6549bee0f",
   "lastOpenFiles": [
+    "cursos/syllabus-quant-gratuito-mit-stanford.md",
+    "mercado/analisis_mercado_20260913.md",
+    "mercado/analisis_mercado_profundo_20260913.md",
     "daily-notes/2026-09-12.md",
     "daily-notes/2026-09-07.md",
     "daily-notes/2026-09-07.md.tmp.15620.fce81ff45dc2",
     "daily-notes/2026-09-02.md",
-    "cursos/syllabus-quant-gratuito-mit-stanford.md",
     "daily-notes/2026-09-05.md",
     "daily-notes/2026-09-06.md",
     "cursos/market-microstructure/descubrimiento-de-precios.md",
@@ -410,8 +416,6 @@
     "cursos/market-microstructure/ciclo-de-vida-de-una-orden.md",
     "cursos/market-microstructure/participantes-buy-side-y-sell-side.md",
     "cursos/market-microstructure/plataformas-y-mecanismos-de-negociacion.md",
-    "cursos/market-microstructure/microestructura-diseno-de-mercado-y-regulacion.md",
-    "cursos/market-microstructure/conceptos-centrales-microestructura-y-puzzles-empiricos.md",
-    "cursos/market-microstructure/importancia-de-la-liquidez-de-mercado.md"
+    "cursos/market-microstructure/microestructura-diseno-de-mercado-y-regulacion.md"
   ]
 }

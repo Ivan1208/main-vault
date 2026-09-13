@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 10134961
       }
+    },
+    {
+      "query": "path:mercado",
+      "color": {
+        "a": 1,
+        "rgb": 5999270
+      }
     }
   ],
   "collapse-display": false,
@@ -67,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5359795996225725,
+  "scale": 0.5359795996225695,
   "close": true
 }
