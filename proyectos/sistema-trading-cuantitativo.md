@@ -61,6 +61,7 @@ Lista abierta — se irán añadiendo más pruebas a medida que surjan. Todas se
 - [ ] Benchmark comparison
 - [ ] Slippage and commission variation test
 - [ ] Skill vs. trend test
+- [ ] Timeframe variation test — comprobar que la estrategia se mantiene robusta al variar el timeframe de los datos, no solo los parámetros (añadida 2026-09-14)
 
 **Entorno de testeo + informes:** se va a desarrollar con Claude Code un entorno que ejecute estas pruebas de validación sobre cada estrategia y genere un informe con los resultados.
 - [ ] Diseñar con Claude Code el entorno de testeo que ejecute todas las pruebas de validación de esta lista sobre una estrategia dada
