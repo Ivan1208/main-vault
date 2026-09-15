@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cursos/quantopian-lectures.md",
+                "file": "proyectos/plan-carrera-quant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "quantopian-lectures"
+              "title": "plan-carrera-quant"
             }
           }
         ],
@@ -241,8 +241,12 @@
   },
   "active": "300d20652fae7d02",
   "lastOpenFiles": [
-    "cursos/syllabus-quant-gratuito-mit-stanford.md",
     "cursos/quantopian-lectures.md",
+    "proyectos/sistema-trading-cuantitativo.md.tmp.9768.7e45a95de0b8",
+    "proyectos/plan-carrera-quant.md",
+    "daily-notes/2026-09-16.md",
+    "daily-notes/2026-09-16.md.tmp.9768.badd21007d46",
+    "cursos/syllabus-quant-gratuito-mit-stanford.md",
     "cursos/topics-in-mathematics-finance-mit/topics-in-mathematics-finance-mit.md",
     "proyectos/sistema-trading-cuantitativo.md",
     "daily-notes/2026-09-15.md",
@@ -267,15 +271,10 @@
     "daily-notes/2026-09-07.md",
     "daily-notes/2026-09-12.md",
     "daily-notes/2026-09-02.md",
-    "cursos/market-microstructure/descubrimiento-de-precios.md",
-    "cursos/market-microstructure/liquidez-de-mercado-y-bid-ask-spread.md",
-    "cursos/market-microstructure/precios-mercados-perfectos-vs-reales.md",
     "daily-notes/2026-09-13.md.tmp.9156.39e4cffa8cff",
     "daily-notes/2026-09-07.md.tmp.15620.fce81ff45dc2",
     "daily-notes/2026-09-01.md.tmp.8648.48c4e63ced65",
     "resources/video-claude-analista-financiero.md.tmp.8648.b7c931260ab2",
-    "daily-notes/2026-09-01.md.tmp.8648.99d529878d2f",
-    "proyectos/sistema-trading-cuantitativo.md.tmp.8648.86bc832eac40",
-    "resources/databento.md.tmp.8648.cf564ec3f824"
+    "daily-notes/2026-09-01.md.tmp.8648.99d529878d2f"
   ]
 }

@@ -98,3 +98,4 @@ Lista abierta — se irán añadiendo más pruebas a medida que surjan. Todas se
 - [[quantnet-forum]]
 - [[hudson-thames-research]]
 - [[repo-github-datos-financieros-instagram]]
+- [[plan-carrera-quant]]
