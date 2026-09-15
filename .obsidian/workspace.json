@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "proyectos/sistema-trading-cuantitativo.md",
+                "file": "cursos/quantopian-lectures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sistema-trading-cuantitativo"
+              "title": "quantopian-lectures"
             }
           }
         ],
@@ -241,6 +241,10 @@
   },
   "active": "300d20652fae7d02",
   "lastOpenFiles": [
+    "cursos/syllabus-quant-gratuito-mit-stanford.md",
+    "cursos/quantopian-lectures.md",
+    "cursos/topics-in-mathematics-finance-mit/topics-in-mathematics-finance-mit.md",
+    "proyectos/sistema-trading-cuantitativo.md",
     "daily-notes/2026-09-15.md",
     "daily-notes/2026-09-15.md.tmp.9768.4de5cdc51ad5",
     "daily-notes/2026-09-13.md",
@@ -251,10 +255,8 @@
     "research/pairs-trading-cointegracion-nse-epat.md",
     "research/generacion-videos-agentes-inmobiliarios-airbnb.md",
     "research/chd-volatility-expansion-breakout-strategy.md",
-    "cursos/quantopian-lectures.md",
     "ideas/redes-sociales-divulgacion-trading-cuantitativo.md",
     "personas/daniel-rozalen.md",
-    "proyectos/sistema-trading-cuantitativo.md",
     "resources/repo-github-datos-financieros-instagram.md",
     "mercado/analisis_mercado_20260914.md",
     "mercado/analisis_mercado_20260913.md",
@@ -264,12 +266,10 @@
     "daily-notes/2026-09-13.md.tmp.9156.3607e676e8dc",
     "daily-notes/2026-09-07.md",
     "daily-notes/2026-09-12.md",
-    "cursos/syllabus-quant-gratuito-mit-stanford.md",
     "daily-notes/2026-09-02.md",
     "cursos/market-microstructure/descubrimiento-de-precios.md",
     "cursos/market-microstructure/liquidez-de-mercado-y-bid-ask-spread.md",
     "cursos/market-microstructure/precios-mercados-perfectos-vs-reales.md",
-    "cursos/market-microstructure/importancia-de-la-liquidez-de-mercado.md",
     "daily-notes/2026-09-13.md.tmp.9156.39e4cffa8cff",
     "daily-notes/2026-09-07.md.tmp.15620.fce81ff45dc2",
     "daily-notes/2026-09-01.md.tmp.8648.48c4e63ced65",
