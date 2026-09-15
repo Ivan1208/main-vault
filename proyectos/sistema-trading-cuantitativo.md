@@ -56,7 +56,7 @@ Lista abierta — se irán añadiendo más pruebas a medida que surjan. Todas se
 
 - [x] Walk-forward test — implementado, con generador de informes propio ya terminado (2026-08-21)
 - [x] Cluster walk-forward test — implementado (2026-09-02), pendiente probarlo con varias estrategias e interpretar bien los resultados
-- [ ] In-sample Monte Carlo permutation test — pendiente de programarlo en el pipeline actual y testear estrategias con él (2026-09-13, tarea de los próximos días); usar como referencia [[retrospective-simulation-trading]] para el framework de refinamiento: bootstrap no paramétrico, anclaje a precios reales, optimización por consenso multi-camino, métricas VaR/CVaR/skew/kurtosis
+- [x] In-sample Monte Carlo permutation test — programado y terminado (2026-09-15), aplicando el framework de [[retrospective-simulation-trading]]
 - [ ] System param permutation test
 - [ ] Benchmark comparison
 - [ ] Slippage and commission variation test
@@ -65,8 +65,8 @@ Lista abierta — se irán añadiendo más pruebas a medida que surjan. Todas se
 
 **Entorno de testeo + informes:** se va a desarrollar con Claude Code un entorno que ejecute estas pruebas de validación sobre cada estrategia y genere un informe con los resultados.
 - [ ] Diseñar con Claude Code el entorno de testeo que ejecute todas las pruebas de validación de esta lista sobre una estrategia dada
-- [ ] Diseñar con Claude Code el generador de informes global (recoge los resultados de cada prueba por estrategia) — de momento existe el del walk-forward, falta extenderlo al resto de pruebas
-- [ ] Explorar [[claude-code-para-informes-de-backtesting]]: usar Claude Code para almacenar y organizar los gráficos/informes de cada backtest
+- [x] Diseñar con Claude Code el generador de informes global (recoge los resultados de cada prueba por estrategia) — de momento existe el del walk-forward, falta extenderlo al resto de pruebas
+- [x] Explorar [[claude-code-para-informes-de-backtesting]]: usar Claude Code para almacenar y organizar los gráficos/informes de cada backtest
 
 ### Fase 4 — Integración Python + MT5
 - [ ] Investigar la librería/API de conexión Python-MT5 (paquete `MetaTrader5`)
